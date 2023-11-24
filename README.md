@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=JaeSung&fontSize=90)
 
-<div align="center">
-
 ### 🎓 Tech Stack 🎓
 
 <div align="center">
@@ -18,7 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaesung4231)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jaesung97)](https://solved.ac/jaesung97)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={jaesung97})](https://solved.ac/{jaesung97})
 
 <!--
 **jaesung4231/jaesung4231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
